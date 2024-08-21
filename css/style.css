@@ -57,3 +57,9 @@
     font-size: 1.2rem;
 }
 
+#projects .col {
+    background-color: pink;
+    border-style: solid;
+    border-color: black;
+}
+
