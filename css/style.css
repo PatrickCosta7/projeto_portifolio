@@ -1,0 +1,59 @@
+@font-face {
+    font-family: LCD;
+    src: url("../fonts/lcd_lcd_mono/LCDWinTT/LCD2B___.TTF");
+}
+
+.share-tech-mono-regular {
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+} 
+
+#banner {
+    position: relative;
+    display: inline-block;
+}
+
+#banner .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    color: #fff;
+}
+
+#banner h1 { 
+    margin-top: 15%;
+    font-family: LCD;
+    font-size: 7rem;
+}
+
+#banner h4 {
+    margin-top: 10%;
+    max-width: 70%;
+    font-family: "Share Tech Mono", monospace;
+    font-size: 1.3rem;
+}
+
+#aboutMe h2 {
+    font-family: "Share Tech Mono", monospace;
+    font-size: 3rem;
+}
+
+#aboutMe h4 {
+    font-family: "Share Tech Mono", monospace;
+    font-size: 1.5rem;
+}
+
+#aboutMe p {
+    font-family: "Share Tech Mono", monospace;
+    font-size: 1.2rem;
+}
+
