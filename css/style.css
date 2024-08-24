@@ -43,14 +43,24 @@
     font-size: 1.3rem;
 }
 
+#projects h5{
+    font-family: "Share Tech Mono", monospace;
+    font-size: 1.8rem;
+}
+
 #aboutMe h2 {
     font-family: "Share Tech Mono", monospace;
     font-size: 3rem;
 }
 
+#aboutMe p {
+    font-family: "Share Tech Mono", monospace;
+    font-size: 1.4rem;
+}
+
 #aboutMe h4 {
     font-family: "Share Tech Mono", monospace;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
 #aboutMe p {
