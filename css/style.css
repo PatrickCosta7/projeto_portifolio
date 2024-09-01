@@ -61,6 +61,11 @@
     font-size: 1.2rem;
 }
 
+#projects p{
+    font-family: "Share Tech Mono", monospace;
+    font-size: 0.9rem;
+}
+
 #projects h5{
     font-family: "Share Tech Mono", monospace;
     font-size: 1.3rem;
